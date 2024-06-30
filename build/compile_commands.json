@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/okamoto/make_vdbfile/build",
+  "command": "/usr/bin/c++ -DBOOST_IOSTREAMS_DYN_LINK -DBOOST_IOSTREAMS_NO_LIB -DOPENVDB_ABI_VERSION_NUMBER=10 -DOPENVDB_USE_DELAYED_LOADING -I/home/okamoto/make_vdbfile/libs/eigen-3.4.0 -isystem /usr/include/Imath -g -std=gnu++17 -o CMakeFiles/make_vdb.dir/main.cpp.o -c /home/okamoto/make_vdbfile/main.cpp",
+  "file": "/home/okamoto/make_vdbfile/main.cpp",
+  "output": "CMakeFiles/make_vdb.dir/main.cpp.o"
+}
+]
